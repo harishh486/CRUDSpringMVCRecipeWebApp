@@ -1,2 +1,2 @@
 # Spring Boot Recipe Application
-[![codecov](https://codecov.io/gh/harishh486/CRUDSpringMVCRecipeWebApp/branch/master/graph/badge.svg)](https://codecov.io/gh/harishh486/CRUDSpringMVCRecipeWebApp)
+[![CircleCI](https://circleci.com/gh/harishh486/CRUDSpringMVCRecipeWebApp.svg?style=svg)](https://circleci.com/gh/harishh486/CRUDSpringMVCRecipeWebApp)
